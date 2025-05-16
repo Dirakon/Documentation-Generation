@@ -1,0 +1,8 @@
+(lines: 3)
+Log:
+(lines: 1)
+Testing log functionality
+Request: test-command
+Request: branch
+Request: program-name
+Request: get-version|||stable|||test-program

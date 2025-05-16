@@ -1,0 +1,10 @@
+Request: get-version|||master|||hello
+1.2.3
+Request: write-file|||state/master/hello
+1.2.3|||1678886400
+Request: get-version|||master|||hello
+1.2.3
+Request: get-version|||master|||hello
+1.2.3
+Request: write-file|||state/master/hello
+1.2.3|||1678886400

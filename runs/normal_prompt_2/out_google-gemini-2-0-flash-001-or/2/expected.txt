@@ -1,0 +1,25 @@
+Request: (lines: 12)
+
+Request: write-file||||||
+Rss:
+Log:
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>test-program versions</title>
+  <link>https://search.nixos.org/packages?channel=test-branch&from=0&size=50&sort=relevance&type=packages&query=test-program</link>
+  <description>History of versions</description>
+  <item>
+    <title>version-1</title>
+    <link>https://search.nixos.org/packages?channel=test-branch&from=0&size=50&sort=relevance&type=packages&query=test-program</link>
+    <description>New version at 1000</description>
+  </item>
+  <item>
+    <title>version-2</title>
+    <link>https://search.nixos.org/packages?channel=test-branch&from=0&size=50&sort=relevance&type=packages&query=test-program</link>
+    <description>New version at 2000</description>
+  </item>
+</channel>
+
+</rss>

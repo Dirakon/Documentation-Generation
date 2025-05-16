@@ -1,0 +1,3 @@
+Log:
+test_message
+(lines: 1)

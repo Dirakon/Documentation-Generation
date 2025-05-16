@@ -1,0 +1,11 @@
+Accuracy: 3
+Accuracy-note: x
+Completeness: 1
+Completeness-note: purpose? while? stdin/out?
+Relevance: 1
+Relevance-note: unrelated code
+Understandability: 2
+Understandability-note: wierd usage of seq
+Formatting: 3
+Formatting-note: x
+General-note: x

@@ -1,0 +1,6 @@
+Case 1: Add new version
+Length: 2, Last version: 2.0.0
+Case 2: Add same version again (should not be added)
+Length: 2, Last version: 2.0.0
+Case 3: Empty versions list with new version
+Length: 1, Version: 1.0.0

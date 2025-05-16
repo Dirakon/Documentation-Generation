@@ -1,0 +1,13 @@
+Request: program-name
+test-program
+Request: branch
+test-branch
+Request: get-version|||test-branch|||test-program
+1.2.3
+Request: read-file|||test-file
+(lines: 1)
+test-content
+Request: write-file|||test-file
+Confirmation: file written
+Confirmation: command received
+Confirmation: command received

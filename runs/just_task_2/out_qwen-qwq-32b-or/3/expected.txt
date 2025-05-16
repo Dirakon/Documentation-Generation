@@ -1,0 +1,19 @@
+Log:
+Request: write-file|||the_state_path/test-app
+Rss:
+(lines: 13)
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>test-app versions</title>
+  <link>https://search.nixos.org/packages?channel=nixos-unstable&from=0&size=50&sort=relevance&type=packages&query=test-app</link>
+  <description>History of versions</description>
+  <item>
+    <title>1.2.3</title>
+    <link>https://search.nixos.org/packages?channel=nixos-unstable&from=0&size=50&sort=relevance&type=packages&query=test-app</link>
+    <description>New version at 1678901234</description>
+  </item>
+</channel>
+
+</rss>

@@ -1,0 +1,65 @@
+Log:
+Reading...
+(lines: 1)
+Request: branch
+
+Request: program-name
+
+Request: read-file|||/tmp/version-history/nixpkgs-unstable/firefox
+Log:
+Getting current version
+Request: get-version|||nixpkgs-unstable|||firefox
+Log:
+Writing...
+Log:
+115.0|||1625097600
+(lines: 1)
+Request: write-file|||/tmp/version-history/nixpkgs-unstable/firefox
+Rss:
+(lines: 15)
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>firefox versions</title>
+  <link>https://search.nixos.org/packages?channel=nixpkgs-unstable&from=0&size=50&sort=relevance&type=packages&query=firefox</link>
+  <description>History of versions</description>
+  <item>
+    <title>115.0</title>
+    <link>https://search.nixos.org/packages?channel=nixpkgs-unstable&from=0&size=50&sort=relevance&type=packages&query=firefox</link>
+    <description>New version at 1625097600</description>
+  </item>
+</channel>
+
+</rss>
+Request: branch
+
+Request: program-name
+
+Request: read-file|||/tmp/version-history/nixpkgs-unstable/firefox
+Log:
+Getting current version
+Request: get-version|||nixpkgs-unstable|||firefox
+Log:
+Writing...
+Log:
+116.0|||1625097600
+(lines: 1)
+Request: write-file|||/tmp/version-history/nixpkgs-unstable/firefox
+Rss:
+(lines: 15)
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>firefox versions</title>
+  <link>https://search.nixos.org/packages?channel=nixpkgs-unstable&from=0&size=50&sort=relevance&type=packages&query=firefox</link>
+  <description>History of versions</description>
+  <item>
+    <title>116.0</title>
+    <link>https://search.nixos.org/packages?channel=nixpkgs-unstable&from=0&size=50&sort=relevance&type=packages&query=firefox</link>
+    <description>New version at 1625097600</description>
+  </item>
+</channel>
+
+</rss>

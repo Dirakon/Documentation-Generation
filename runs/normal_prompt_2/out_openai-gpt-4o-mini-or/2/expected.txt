@@ -1,0 +1,26 @@
+Rss:
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>main versions</title>
+  <link>https://search.nixos.org/packages?channel=sample-program&from=0&size=50&sort=relevance&type=packages&query=main</link>
+  <description>History of versions</description>
+  <item>
+    <title>1624003200</title>
+    <link>https://search.nixos.org/packages?channel=sample-program&from=0&size=50&sort=relevance&type=packages&query=main</link>
+    <description>New version at 1624003200</description>
+  </item>
+  <item>
+    <title>1624006800</title>
+    <link>https://search.nixos.org/packages?channel=sample-program&from=0&size=50&sort=relevance&type=packages&query=main</link>
+    <description>New version at 1624006800</description>
+  </item>
+  <item>
+    <title>1624010400</title>
+    <link>https://search.nixos.org/packages?channel=sample-program&from=0&size=50&sort=relevance&type=packages&query=main</link>
+    <description>New version at 1624010400</description>
+  </item>
+</channel>
+
+</rss>

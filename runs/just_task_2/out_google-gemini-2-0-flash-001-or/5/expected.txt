@@ -1,0 +1,20 @@
+Request: test
+Log:
+(lines: 1)
+test
+(lines: 1)
+123
+(lines: 2)
+(lines: 2)
+line1
+line2
+Request: hello
+Request: get-version|||branch1|||program1
+Request: branch
+Request: program-name
+Request: write-file|||file-path
+(lines: 1)
+file-content
+Request: read-file|||file-path
+
+<stderr>

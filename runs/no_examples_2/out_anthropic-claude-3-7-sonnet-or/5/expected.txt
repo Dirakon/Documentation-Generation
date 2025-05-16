@@ -1,0 +1,13 @@
+Log:
+(lines: 1)
+Testing external module
+
+Request: test-command
+(lines: 3)
+Line 1
+Line 2
+Line 3
+
+Request: branch
+Request: program-name
+Request: get-version|||stable|||test-program

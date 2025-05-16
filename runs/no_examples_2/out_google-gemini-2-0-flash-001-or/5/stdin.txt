@@ -1,0 +1,9 @@
+Request: write-file|||test_file.txt
+(lines: 2)
+Confirmation
+Request: get-version|||test_branch|||test_program
+1.2.3
+Request: branch
+test_branch_name
+Request: program-name
+test_program_name

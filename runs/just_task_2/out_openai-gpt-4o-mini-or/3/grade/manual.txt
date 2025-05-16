@@ -1,0 +1,11 @@
+Accuracy: 3
+Accuracy-note: x
+Completeness: 0
+Completeness-note: x
+Relevance: 0
+Relevance-note: whole code, not class. The logic of func itself not covered...
+Understandability: 1
+Understandability-note: very overly verbose and vague.
+Formatting: 3
+Formatting-note: x
+General-note: x

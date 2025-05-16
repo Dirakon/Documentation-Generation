@@ -1,0 +1,23 @@
+Log:
+Reading...
+Log:
+Getting current version
+Log:
+Writing...
+Rss:
+(lines: 13)
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>hello versions</title>
+  <link>https://search.nixos.org/packages?channel=stable&from=0&size=50&sort=relevance&type=packages&query=hello</link>
+  <description>History of versions</description>
+  <item>
+    <title>2.3.1</title>
+    <link>https://search.nixos.org/packages?channel=stable&from=0&size=50&sort=relevance&type=packages&query=hello</link>
+    <description>New version at 1678376400</description>
+  </item>
+</channel>
+
+</rss>

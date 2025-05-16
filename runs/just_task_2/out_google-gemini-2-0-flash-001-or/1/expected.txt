@@ -1,0 +1,6 @@
+Initial data: branch = main, program_name = my-program, versions = 0
+Data after write: branch = main, program_name = my-program, versions = 1
+First version: number = 1.0.0, timestamp = 1678886400
+Data after second write: branch = main, program_name = my-program, versions = 2
+First version: number = 1.0.0, timestamp = 1678886400
+Second version: number = 1.1.0, timestamp = 1678890000

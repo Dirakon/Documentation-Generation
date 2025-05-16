@@ -1,0 +1,6 @@
+Program: test-program
+Branch: unstable
+Versions count: 2
+Version numbers:
+ - 1.0.0 (timestamp: 1672531200)
+ - 1.1.0 (timestamp: 1677686400)

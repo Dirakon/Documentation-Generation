@@ -1,0 +1,11 @@
+Accuracy: 2
+Accuracy-note: query the program-branch too?
+Completeness: 2
+Completeness-note: cli arg? stdin/out?
+Relevance: 2
+Relevance-note: x
+Understandability: 3
+Understandability-note: x
+Formatting: 3
+Formatting-note: x
+General-note: x

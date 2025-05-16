@@ -1,0 +1,19 @@
+Log: Reading...
+Log: Getting current version
+Log: 1.2.3|||1678886400
+Log: <?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>myprogram versions</title>
+  <link>https://search.nixos.org/packages?channel=main&from=0&size=50&sort=relevance&type=packages&query=myprogram</link>
+  <description>History of versions</description>  <item>
+    <title>1.2.3</title>
+    <link>https://search.nixos.org/packages?channel=main&from=0&size=50&sort=relevance&type=packages&query=myprogram</link>
+    <description>New version at 1678886400</description>
+  </item>
+</channel>
+
+</rss>
+(lines: 11)
+Log: 1.2.3|||1678886400

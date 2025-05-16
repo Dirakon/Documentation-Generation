@@ -1,0 +1,11 @@
+Accuracy: 3
+Accuracy-note: x
+Completeness: 2
+Completeness-note: stdin/stdout mentioned but not emphasised enough (that is, like, the main part of the object)
+Relevance: 3
+Relevance-note: x
+Understandability: 3
+Understandability-note: x
+Formatting: 1.5
+Formatting-note: unicode
+General-note: x

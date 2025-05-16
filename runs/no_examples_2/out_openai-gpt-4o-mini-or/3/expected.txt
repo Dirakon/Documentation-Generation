@@ -1,0 +1,22 @@
+Log:
+Reading...
+Getting current version
+Writing...
+Rss:
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>example_program versions</title>
+  <link>https://search.nixos.org/packages?channel=example_branch&from=0&size=50&sort=relevance&type=packages&query=example_program</link>
+  <description>History of versions</description>
+  <item>
+    <title>1.0.0</title>
+    <link>https://search.nixos.org/packages?channel=example_branch&from=0&size=50&sort=relevance&type=packages&query=example_program</link>
+    <description>New version at 1626792000</description>
+  </item>
+</channel>
+
+</rss>
+
+(lines: 12)

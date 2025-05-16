@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>python versions</title>
+  <link>https://search.nixos.org/packages?channel=unstable&from=0&size=50&sort=relevance&type=packages&query=python</link>
+  <description>History of versions</description>
+  <item>
+    <title>3.11.6</title>
+    <link>https://search.nixos.org/packages?channel=unstable&from=0&size=50&sort=relevance&type=packages&query=python</link>
+    <description>New version at 1634567890</description>
+  </item>
+</channel>
+
+</rss>

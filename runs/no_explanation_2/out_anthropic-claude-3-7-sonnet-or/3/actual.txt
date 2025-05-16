@@ -1,0 +1,4 @@
+Initial versions count: 0
+After adding v1: 1
+After trying to add duplicate v2: 1
+After adding v3: 2

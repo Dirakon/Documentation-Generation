@@ -1,0 +1,11 @@
+Accuracy: 2
+Accuracy-note: avoid CONS dupls
+Completeness: 3
+Completeness-note: x
+Relevance: 1
+Relevance-note: a lot of unrelated gets doced
+Understandability: 2
+Understandability-note: impl
+Formatting: 3
+Formatting-note: x
+General-note: x

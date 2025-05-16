@@ -1,0 +1,12 @@
+Request: get-version|||main|||org.eolang
+1.2.3
+Request: get-version|||main|||org.eolang
+1.2.4
+Request: get-version|||main|||org.eolang
+1.2.5
+Request: get-version|||main|||main
+1.2.3
+Request: get-version|||main|||main
+1.2.4
+Request: get-version|||main|||main
+1.2.5

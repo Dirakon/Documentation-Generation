@@ -1,0 +1,6 @@
+Log:
+(lines: 2)
+v1.0|||1000
+Request: write-file|||/tmp/develop/myapp
+(lines: 2)
+v1.0|||1000

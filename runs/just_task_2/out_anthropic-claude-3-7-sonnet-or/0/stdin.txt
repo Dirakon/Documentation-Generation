@@ -1,0 +1,19 @@
+Request: branch
+unstable
+Request: program-name
+python
+Log:
+Reading...
+Request: read-file|||/tmp/test_state/unstable/python
+(lines: 0)
+Log:
+Getting current version
+Request: get-version|||unstable|||python
+3.11.6
+Log:
+Writing...
+Request: write-file|||/tmp/test_state/unstable/python
+3.11.6|||1634567890
+
+Rss:
+(lines: 15)

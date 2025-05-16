@@ -1,0 +1,1 @@
+The expected output of the doctest would be the updated `program-data` object with the `new-version` added to the list of versions.

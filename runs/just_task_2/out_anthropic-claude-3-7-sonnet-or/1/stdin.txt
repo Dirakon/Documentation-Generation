@@ -1,0 +1,30 @@
+Log:
+./temp_state
+Request: write-file|||./temp_state/main/test-app
+(lines: 1)
+1.0.0|||1620000000
+
+Log:
+1.0.0|||1620000000
+
+written
+Request: read-file|||./temp_state/main/test-app
+(lines: 1)
+1.0.0|||1620000000
+Rss:
+(lines: 15)
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>test-app versions</title>
+  <link>https://search.nixos.org/packages?channel=main&from=0&size=50&sort=relevance&type=packages&query=test-app</link>
+  <description>History of versions</description>
+  <item>
+    <title>1.0.0</title>
+    <link>https://search.nixos.org/packages?channel=main&from=0&size=50&sort=relevance&type=packages&query=test-app</link>
+    <description>New version at 1620000000</description>
+  </item>
+</channel>
+
+</rss>

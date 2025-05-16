@@ -1,0 +1,10 @@
+Request: write-file|||test.txt
+test
+content
+OK
+Request: get-version|||master|||my-program
+1.2.3
+OK
+Request: program-name
+my-program
+OK

@@ -1,0 +1,4 @@
+Log:
+This is a log message
+(lines: 1)
+Hello World!

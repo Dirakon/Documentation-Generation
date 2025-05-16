@@ -1,0 +1,4 @@
+Request: write-file|||/test/path/nixos-unstable/firefox
+(lines: 1)
+115.0|||1690000000
+Request: read-file|||/test/path/nixos-unstable/firefox

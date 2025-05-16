@@ -1,0 +1,5 @@
+Log:
+Hello, world!
+(lines: 2)
+This is a multiline message.
+It has multiple lines.

@@ -1,0 +1,11 @@
+Accuracy: 2
+Accuracy-note: does not manage version details per say
+Completeness: 2
+Completeness-note: out outs
+Relevance: 3
+Relevance-note: x
+Understandability: 3
+Understandability-note: x
+Formatting: 3
+Formatting-note: x
+General-note: x

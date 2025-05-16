@@ -1,0 +1,1 @@
+<![CDATA[<?xml version="1.0" encoding="UTF-8" ?> version=... (actual output contains the full RSS format with two items for the provided versions along with timestamps and nixos.org links) ]]>

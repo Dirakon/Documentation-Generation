@@ -1,0 +1,11 @@
+Accuracy: 2
+Accuracy-note: Reads configuration data is false
+Completeness: 2
+Completeness-note: stdin/out
+Relevance: 2
+Relevance-note: whole code
+Understandability: 1
+Understandability-note: very much into impl - logging and code constructs
+Formatting: 1.5
+Formatting-note: unicode
+General-note: x

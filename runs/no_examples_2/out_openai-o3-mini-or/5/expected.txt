@@ -1,0 +1,6 @@
+Log:
+(lines: 1)
+Test log message
+Request: dummy-command
+Request: get-version|||master|||demo
+v1.0.0

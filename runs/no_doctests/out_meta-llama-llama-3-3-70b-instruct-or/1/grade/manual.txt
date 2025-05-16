@@ -1,0 +1,11 @@
+Accuracy: 2
+Accuracy-note: Data is not stored in rss format
+Completeness: 2
+Completeness-note: stdin/out
+Relevance: 3
+Relevance-note: x
+Understandability: 3
+Understandability-note: x
+Formatting: 0
+Formatting-note: Completely ignores request format, breaking system
+General-note: invalid. 

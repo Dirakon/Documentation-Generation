@@ -1,0 +1,15 @@
+node_modules/
+.nyc_output
+coverage/
+.idea
+.eoc/
+mochawesome-report/
+coverage.html
+target/
+.mvn/
+temp/
+*.tgz
+eodocs.html
+mvnw/dependency-reduced-pom.xml
+__pycache__
+.direnv

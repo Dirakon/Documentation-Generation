@@ -1,0 +1,11 @@
+Accuracy: 2
+Accuracy-note: actualized condition reversed
+Completeness: 2
+Completeness-note: out outs.
+Relevance: 3
+Relevance-note: x
+Understandability: 2
+Understandability-note: impl
+Formatting: 3
+Formatting-note: x
+General-note: x

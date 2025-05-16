@@ -1,0 +1,1 @@
+Current version: [actual version string based on file content]

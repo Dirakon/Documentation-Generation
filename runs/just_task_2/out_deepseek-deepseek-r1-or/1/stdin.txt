@@ -1,0 +1,4 @@
+Request: write-file|||/tmp/nixos-unstable/firefox
+OK
+Request: get-version|||nixos-unstable|||firefox
+114.0

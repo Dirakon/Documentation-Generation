@@ -1,0 +1,6 @@
+Log:
+(lines: 1)
+Test message
+(lines: 3)
+Request: get-version|||branch|||program
+1.2.3

@@ -1,0 +1,11 @@
+Accuracy: 2
+Accuracy-note: not the output-as-rss, but the class
+Completeness: 2
+Completeness-note: missing actualized
+Relevance: 3
+Relevance-note: x
+Understandability: 3
+Understandability-note: x
+Formatting: 3
+Formatting-note: x
+General-note: x

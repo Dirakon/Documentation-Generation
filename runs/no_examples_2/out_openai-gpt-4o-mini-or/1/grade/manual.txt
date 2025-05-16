@@ -1,0 +1,11 @@
+Accuracy: 2
+Accuracy-note: not generation
+Completeness: 2
+Completeness-note: stdin/out
+Relevance: 2
+Relevance-note: not generation
+Understandability: 2
+Understandability-note: seq?
+Formatting: 3
+Formatting-note: x
+General-note: x

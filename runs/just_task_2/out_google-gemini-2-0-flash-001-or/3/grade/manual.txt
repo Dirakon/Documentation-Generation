@@ -1,0 +1,11 @@
+Accuracy: 3
+Accuracy-note: x
+Completeness: 2
+Completeness-note: 'existing' version? You mean the last recorded version?
+Relevance: 2
+Relevance-note: for some reason summarizes the program-data object too?
+Understandability: 1
+Understandability-note: getting too into implemenetation. is existing version singular or mupltiple?
+Formatting: 3
+Formatting-note: x
+General-note: x

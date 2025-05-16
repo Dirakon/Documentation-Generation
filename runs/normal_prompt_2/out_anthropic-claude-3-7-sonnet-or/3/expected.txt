@@ -1,0 +1,3 @@
+Original versions: 2
+After adding new version: 3
+Adding duplicate: 3

@@ -1,0 +1,7 @@
+Log:
+Hello World
+Request: write-file|||test.txt
+This is a test
+(lines: 1)
+Request: read-file|||test.txt
+This is a test

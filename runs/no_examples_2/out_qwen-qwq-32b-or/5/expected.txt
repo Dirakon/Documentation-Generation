@@ -1,0 +1,12 @@
+Request: write-file|||test-file.txt
+Sample content line 1
+Sample line 2
+(lines: 2)
+OK
+Request: read-file|||test-file.txt
+(lines: 2)
+Line 1 content
+Line 2 content
+Log:
+(lines: 19)
+Test log message

@@ -1,0 +1,11 @@
+Accuracy: 3
+Accuracy-note: x
+Completeness: 1
+Completeness-note: stdin/out?
+Relevance: 3
+Relevance-note: x
+Understandability: 1
+Understandability-note: 'The use of sequences and chains allows for'??? Overall, verbose and vague.
+Formatting: 3
+Formatting-note: x
+General-note: x

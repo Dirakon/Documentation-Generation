@@ -1,0 +1,3 @@
+Log:
+Test logging message
+(lines: 1)

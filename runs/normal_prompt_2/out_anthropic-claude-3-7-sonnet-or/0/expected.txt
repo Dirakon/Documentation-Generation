@@ -1,0 +1,28 @@
+Request: branch
+Log:
+Reading...
+Request: read-file|||/tmp/state-path/unstable/firefox
+Log:
+Getting current version
+Request: get-version|||unstable|||firefox
+Log:
+Writing...
+112.0.2|||1683553420
+
+Rss:
+(lines: 16)
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>firefox versions</title>
+  <link>https://search.nixos.org/packages?channel=unstable&from=0&size=50&sort=relevance&type=packages&query=firefox</link>
+  <description>History of versions</description>
+  <item>
+    <title>112.0.2</title>
+    <link>https://search.nixos.org/packages?channel=unstable&from=0&size=50&sort=relevance&type=packages&query=firefox</link>
+    <description>New version at 1683553420</description>
+  </item>
+</channel>
+
+</rss>

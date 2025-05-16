@@ -1,0 +1,11 @@
+Accuracy: 2
+Accuracy-note: it is not written in that lang?
+Completeness: 1
+Completeness-note: loop? stdin/stdout?
+Relevance: 1
+Relevance-note: whole code, not class.
+Understandability: 2
+Understandability-note: top-level and internal variables/funcs together for some reason?
+Formatting: 3
+Formatting-note: x
+General-note: x

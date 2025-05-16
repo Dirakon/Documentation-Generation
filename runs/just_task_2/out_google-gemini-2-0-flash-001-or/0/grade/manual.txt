@@ -1,0 +1,11 @@
+Accuracy: 2
+Accuracy-note: `create a file with the program name and branch`? Inconsistent
+Completeness: 2
+Completeness-note: so what is this `externanl source` you speak of? Surely, it couldn't be the stdin/stdout defined BELOW in the file? 
+Relevance: 1
+Relevance-note: whole code, not class
+Understandability: 2
+Understandability-note: For some reason uses internal variable names in explanation
+Formatting: 3
+Formatting-note: x
+General-note: x

@@ -1,0 +1,17 @@
+```
+Log:
+Hello, World!
+Request: write-file|||test.txt
+This is a test file.
+(lines: 1)
+Request: read-file|||test.txt
+This is a test file.
+Request: get-version|||master|||test-program
+1.0
+Request: branch
+master
+Request: program-name
+test-program
+response
+confirmation
+```

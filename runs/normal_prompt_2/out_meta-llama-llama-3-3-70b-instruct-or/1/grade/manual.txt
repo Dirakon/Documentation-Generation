@@ -1,0 +1,11 @@
+Accuracy: 2
+Accuracy-note: not at state-path, but at a subfolder of it?
+Completeness: 2
+Completeness-note: stdin/out?
+Relevance: 3
+Relevance-note: x
+Understandability: 3
+Understandability-note: x
+Formatting: 3
+Formatting-note: x
+General-note: x

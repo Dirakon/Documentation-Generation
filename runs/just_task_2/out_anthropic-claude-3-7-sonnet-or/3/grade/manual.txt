@@ -1,0 +1,11 @@
+Accuracy: 2
+Accuracy-note: not at the end, but just consecutive dups. It also does not return current if empty.
+Completeness: 3
+Completeness-note: x
+Relevance: 3
+Relevance-note: x
+Understandability: 2
+Understandability-note: redundant last element condititon explanation
+Formatting: 3
+Formatting-note: x
+General-note: x

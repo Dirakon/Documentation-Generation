@@ -1,0 +1,34 @@
+Request: branch
+nixos-unstable
+Request: program-name
+vim
+Log:
+Reading...
+(lines: 1)
+Request: read-file|||/tmp/nix-version-tracker/nixos-unstable/vim
+(lines: 0)
+Log:
+Getting current version
+Request: get-version|||nixos-unstable|||vim
+9.0.1677
+Log:
+Writing...
+(lines: 1)
+9.0.1677|||1695384000
+Rss:
+(lines: 15)
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>vim versions</title>
+  <link>https://search.nixos.org/packages?channel=nixos-unstable&from=0&size=50&sort=relevance&type=packages&query=vim</link>
+  <description>History of versions</description>
+  <item>
+    <title>9.0.1677</title>
+    <link>https://search.nixos.org/packages?channel=nixos-unstable&from=0&size=50&sort=relevance&type=packages&query=vim</link>
+    <description>New version at 1695384000</description>
+  </item>
+</channel>
+
+</rss>

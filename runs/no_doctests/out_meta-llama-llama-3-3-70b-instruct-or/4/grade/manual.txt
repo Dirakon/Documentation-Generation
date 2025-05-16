@@ -1,0 +1,11 @@
+Accuracy: 2
+Accuracy-note: wrong assumption about primary id
+Completeness: 2
+Completeness-note: unix?int?
+Relevance: 3
+Relevance-note: x
+Understandability: 2
+Understandability-note: repeats.
+Formatting: 0
+Formatting-note: Completely ignores request format, breaking system
+General-note: invalid.

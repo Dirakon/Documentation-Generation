@@ -1,0 +1,11 @@
+Accuracy: 2
+Accuracy-note: program data = version history
+Completeness: 1
+Completeness-note: cli arg? stdin/out in app? querying for program/branch?
+Relevance: 1
+Relevance-note: Whole code
+Understandability: 3
+Understandability-note: x
+Formatting: 0
+Formatting-note: Completely ignores request format, breaking system
+General-note: invalid.

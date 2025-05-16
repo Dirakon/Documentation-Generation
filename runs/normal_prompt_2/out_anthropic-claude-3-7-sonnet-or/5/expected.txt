@@ -1,0 +1,16 @@
+Testing log function:
+Log:
+(lines: 1)
+Test message
+
+Testing branch function:
+Request: branch
+Branch: main
+
+Testing program-name function:
+Request: program-name
+Program: test-program
+
+Testing version function:
+Request: get-version|||main|||test-program
+Version: 1.2.3

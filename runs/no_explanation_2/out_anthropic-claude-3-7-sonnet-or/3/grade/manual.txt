@@ -1,0 +1,11 @@
+Accuracy: 1
+Accuracy-note: condition is just wrong? empty results in add? dup entries?
+Completeness: 3
+Completeness-note: x
+Relevance: 3
+Relevance-note: x
+Understandability: 2
+Understandability-note: based on its decoding of condition, the conclusion would be wrong too... hard to understand what it is trying to say
+Formatting: 3
+Formatting-note: x
+General-note: x

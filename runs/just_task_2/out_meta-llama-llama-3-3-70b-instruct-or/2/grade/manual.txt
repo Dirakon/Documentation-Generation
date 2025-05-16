@@ -1,0 +1,11 @@
+Accuracy: 2
+Accuracy-note: lies about external interactions
+Completeness: 3
+Completeness-note: x
+Relevance: 3
+Relevance-note: x
+Understandability: 2
+Understandability-note: 'including' but lists all?
+Formatting: 3
+Formatting-note: x
+General-note: x

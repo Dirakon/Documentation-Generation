@@ -1,0 +1,46 @@
+Log:
+Reading...
+(lines: 1)
+Request: branch
+
+nixpkgs-unstable
+Request: program-name
+
+firefox
+Request: read-file|||/tmp/version-history/nixpkgs-unstable/firefox
+(lines: 0)
+Log:
+Getting current version
+Request: get-version|||nixpkgs-unstable|||firefox
+115.0
+Log:
+Writing...
+Log:
+115.0|||1625097600
+(lines: 1)
+Request: write-file|||/tmp/version-history/nixpkgs-unstable/firefox
+115.0|||1625097600
+(lines: 1)
+
+Rss:
+(lines: 15)
+Request: branch
+
+nixpkgs-unstable
+Request: program-name
+
+firefox
+Request: read-file|||/tmp/version-history/nixpkgs-unstable/firefox
+(lines: 0)
+Log:
+Getting current version
+Request: get-version|||nixpkgs-unstable|||firefox
+116.0
+Log:
+Writing...
+Log:
+116.0|||1625097600
+(lines: 1)
+Request: write-file|||/tmp/version-history/nixpkgs-unstable/firefox
+116.0|||1625097600
+(lines: 1)

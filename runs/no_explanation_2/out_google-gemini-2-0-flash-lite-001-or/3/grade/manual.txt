@@ -1,0 +1,11 @@
+Accuracy: 2
+Accuracy-note: is empty condition is wrong!
+Completeness: 3
+Completeness-note: x
+Relevance: 3
+Relevance-note: x
+Understandability: 1
+Understandability-note: a very confusing way to frame the cond. 'ensuring that only the latest version is retained'?
+Formatting: 3
+Formatting-note: x
+General-note: x

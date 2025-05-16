@@ -1,0 +1,3 @@
+[submodule "eoc"]
+	path = eoc
+	url = git@github.com:objectionary/eoc.git

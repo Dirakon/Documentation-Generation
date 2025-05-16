@@ -1,0 +1,5 @@
+Log:
+(lines: 1)
+Test log message
+Request: get-version|||main|||TestProg
+Received version: v1.0.0

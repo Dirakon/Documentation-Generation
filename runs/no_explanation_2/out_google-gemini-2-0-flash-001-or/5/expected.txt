@@ -1,0 +1,7 @@
+OK
+Request: write-file|||test.txt
+Log:
+(lines: 2)
+test
+content
+Request: write-file|||test.txt
